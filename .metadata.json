@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "siconfir",
+    "oncran": true
+  }
+]
